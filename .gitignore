@@ -7,7 +7,6 @@ xcuserdata/
 # Swift Package Manager
 /.build
 /Packages
-/*.xcodeproj
 
 # CocoaPods
 Pods/
@@ -15,3 +14,4 @@ Podfile.lock
 
 # Other
 .DS_Store
+
